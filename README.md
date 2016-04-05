@@ -31,3 +31,5 @@ Links I've used myself to learn all about Git, would suggest the interactive tut
 
 - CodeSchool's tryGit interactive tutorial, 
 - add stuff from Google doc
+
+-- Testing Slack integration
